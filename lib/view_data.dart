@@ -9,11 +9,6 @@ class view_data extends StatefulWidget {
 }
 
 class _view_dataState extends State<view_data> {
-  @override
-  void initState() {
-    // TODO: implement initState
-    super.initState();
-  }
 
   @override
   Widget build(BuildContext context) {
